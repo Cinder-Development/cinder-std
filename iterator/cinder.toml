@@ -1,0 +1,7 @@
+[package]
+name = "iterator"
+version = "1.0.0"
+authors = [ "cinder" ]
+header = "iterator.h"
+object = "iterator.o"
+dependencies = [ "tuple" ]

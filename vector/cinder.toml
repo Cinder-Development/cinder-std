@@ -1,0 +1,7 @@
+[package]
+name = "vector"
+version = "1.0.0"
+authors = [ "cinder" ]
+header = "vector.h"
+object = "vector.o"
+dependencies = [ "iterator" ]
